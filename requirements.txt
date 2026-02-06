@@ -1,0 +1,10 @@
+streamlit
+spacy
+nltk
+python-docx
+PyPDF2
+openai
+langdetect
+indic-transliteration
+
+
